@@ -1,0 +1,19 @@
+#wrapper{
+	width:100%;
+	margin: auto;
+	padding: 0px;
+	text-align: center;
+}
+h2{
+	display: block;
+	color:green;
+	font-size: 50px;
+}
+/* here's a comment */
+.comedy{
+	background: yellow;
+}
+
+#scifi{
+	font-size: 60px;
+}

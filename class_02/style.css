@@ -1,0 +1,40 @@
+img{
+	position: relative;
+	left:100px;
+}
+
+#wrapper{
+	width:690px;
+	margin:auto;
+}
+
+p{
+	border-style: solid;
+}
+
+.fleft{
+	width:450px;
+	display: inline-block;
+	float:left;
+}
+
+.fright{
+	width:450px;
+	display: inline-block;
+	float:right;
+}
+
+.thirdp{
+	clear: both;
+}
+
+.centeredp{
+	width:500px;
+	margin: auto;
+}
+
+.centerAligned{
+	width:500px;
+	margin: auto;
+	text-align: center;
+}
