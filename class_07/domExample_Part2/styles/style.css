@@ -1,0 +1,14 @@
+#mydiv
+{
+	color:white;
+	display:inline-block;
+	padding:50px;
+	background:blue;
+}
+
+#submittedText{
+	padding:5px;
+	height:20px;
+	background: blue;
+	color:white;
+}
