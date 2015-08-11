@@ -1,3 +1,10 @@
+$('document').ready(function(){
+	console.log("I'm loaded!");
+})
+
+
+
+/*
 //When the document is ready
 $('document').ready(function(){
 	//Find the element that has the id "mydiv". Then take click events on that element.	
@@ -11,3 +18,4 @@ $('document').ready(function(){
 		}
 	)
 });
+*/
